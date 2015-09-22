@@ -1,0 +1,315 @@
+CFBundleDisplayName="历历在目-专业版";
+
+/* No comment provided by engineer. */
+" 查看当日" = " 查看当日";
+
+/* No comment provided by engineer. */
+"%.2f小时" = "%.2f小时";
+
+/* No comment provided by engineer. */
+"%@" = "%@";
+
+/* No comment provided by engineer. */
+"Attention" = "出错啦";
+
+/* No comment provided by engineer. */
+"This tag is already exist!" = "此标签已经存在!";
+
+/* No comment provided by engineer. */
+"不积跬步无以至千里，不积小流无以成江海。有序生活从点滴做起。" = "不积跬步无以至千里，不积小流无以成江海。有序生活从点滴做起。";
+
+/* No comment provided by engineer. */
+"两次输入密码不一致！" = "两次输入密码不一致！";
+
+/* No comment provided by engineer. */
+"主题" = "主题";
+
+/* No comment provided by engineer. */
+"从相册选择" = "从相册选择";
+
+/* No comment provided by engineer. */
+"任意选取时段，绘制生活状态图" = "任意选取时段，绘制生活状态图";
+
+/* No comment provided by engineer. */
+"保存事项" = "保存事项";
+
+/* No comment provided by engineer. */
+"修改密码" = "修改密码";
+
+/* No comment provided by engineer. */
+"元" = "元";
+
+/* No comment provided by engineer. */
+"关于我们" = "关于我们";
+
+/* No comment provided by engineer. */
+"关键字" = "关键字";
+
+/* No comment provided by engineer. */
+"再次输入:" = "再次输入:";
+
+/* No comment provided by engineer. */
+"出错啦！" = "出错啦！";
+
+/* No comment provided by engineer. */
+"删除事项" = "删除事项";
+
+/* No comment provided by engineer. */
+"到" = "到";
+
+/* No comment provided by engineer. */
+"取消" = "取消";
+
+/* No comment provided by engineer. */
+"声音、加密、教程及反馈" = "声音、加密、教程及反馈";
+
+/* No comment provided by engineer. */
+"多角度精准定位每条记录" = "多角度精准定位每条记录";
+
+/* No comment provided by engineer. */
+"天后" = "天后";
+
+/* No comment provided by engineer. */
+"密码不能为空！" = "密码不能为空！";
+
+/* No comment provided by engineer. */
+"密码提示:" = "密码提示:";
+
+/* No comment provided by engineer. */
+"密码错误" = "密码错误";
+
+/* No comment provided by engineer. */
+"工作" = "工作";
+
+/* No comment provided by engineer. */
+"已设提醒:%@  %@" = "已设提醒:%1$@  %2$@";
+
+/* No comment provided by engineer. */
+"心情" = "心情";
+
+/* No comment provided by engineer. */
+"团队作品" = "团队作品";
+
+/* No comment provided by engineer. */
+"成功删除该事项" = "成功删除该事项";
+
+/* No comment provided by engineer. */
+"成功添加至收藏夹" = "成功添加至收藏夹";
+
+/* No comment provided by engineer. */
+"成长" = "成长";
+
+/* No comment provided by engineer. */
+"打开" = "打开";
+
+/* No comment provided by engineer. */
+"拍照" = "拍照";
+
+/* No comment provided by engineer. */
+"按日期" = "按日期";
+
+/* No comment provided by engineer. */
+"按日期设置" = "按日期设置";
+
+/* No comment provided by engineer. */
+"按标签" = "按标签";
+
+/* No comment provided by engineer. */
+"按钮释义" = "按钮释义";
+
+/* No comment provided by engineer. */
+"按间隔设置" = "按间隔设置";
+
+/* No comment provided by engineer. */
+"掌控自我，一切从今天开始" = "掌控自我，一切从今天开始";
+
+/* No comment provided by engineer. */
+"提示" = "提示";
+
+/* No comment provided by engineer. */
+"提示      " = "提示      ";
+
+/* No comment provided by engineer. */
+"支出" = "支出";
+
+/* No comment provided by engineer. */
+"收入" = "收入";
+
+/* No comment provided by engineer. */
+"收录重点事项，支持加密功能" = "收录重点事项，支持加密功能";
+
+/* No comment provided by engineer. */
+"收支管理" = "收支管理";
+
+/* No comment provided by engineer. */
+"收藏事项" = "收藏事项";
+
+/* No comment provided by engineer. */
+"收藏夹" = "收藏夹";
+
+/* No comment provided by engineer. */
+"收藏夹中已收录此事" = "收藏夹中已收录此事";
+
+/* No comment provided by engineer. */
+"收藏夹密码" = "收藏夹密码";
+
+/* No comment provided by engineer. */
+"无主题" = "无主题";
+
+/* No comment provided by engineer. */
+"本次编辑内容尚未保存，确定离开吗" = "本次编辑内容尚未保存，确定离开吗";
+
+/* No comment provided by engineer. */
+"查看照片" = "查看照片";
+
+/* No comment provided by engineer. */
+"查看结果" = "总体概览";
+
+/* No comment provided by engineer. */
+"添加事项" = "添加事项";
+
+/* No comment provided by engineer. */
+"添加标签" = "添加标签";
+
+/* No comment provided by engineer. */
+"温馨提示" = "温馨提示";
+
+/* No comment provided by engineer. */
+"点击输入......" = "点击输入......";
+
+/* No comment provided by engineer. */
+"照片数量达到上限！" = "照片数量达到上限！";
+
+/* No comment provided by engineer. */
+"照片浏览" = "照片浏览";
+
+/* No comment provided by engineer. */
+"版本" = "版本";
+
+/* No comment provided by engineer. */
+"生活" = "生活";
+
+/* No comment provided by engineer. */
+"确定" = "确定";
+
+/* No comment provided by engineer. */
+"确定删除该事项吗" = "确定删除该事项吗";
+
+/* No comment provided by engineer. */
+"空" = "空";
+
+/* No comment provided by engineer. */
+"结束应该在开始之后哦" = "结束应该在开始之后哦";
+
+/* No comment provided by engineer. */
+"结束时间应该比开始时间更大哦！" = "结束时间应该比开始时间更大哦！";
+
+/* No comment provided by engineer. */
+"统 计" = "统 计";
+
+/* No comment provided by engineer. */
+"统计起始日期大于终止日期" = "统计起始日期大于终止日期";
+
+/* No comment provided by engineer. */
+"继续努力" = "继续努力";
+
+/* No comment provided by engineer. */
+"设 置" = "设 置";
+
+/* No comment provided by engineer. */
+"设定提醒" = "设定提醒";
+
+/* No comment provided by engineer. */
+"设置密码:" = "设置密码:";
+
+/* No comment provided by engineer. */
+"该事件尚未保存，无须删除" = "该事件尚未保存，无须删除";
+
+/* No comment provided by engineer. */
+"该事项已自动保存并存入收藏夹" = "该事项已自动保存并存入收藏夹";
+
+/* No comment provided by engineer. */
+"该时段已有事件存在，请修改起止时间或选择相应事件进行补充" = "该时段已有事件存在，请修改起止时间或选择相应事件进行补充";
+
+/* No comment provided by engineer. */
+"该阶段共有记录           天" = "该阶段共有记录           天";
+
+/* No comment provided by engineer. */
+"请先选择要查看的日期" = "请先选择要查看的日期";
+
+/* No comment provided by engineer. */
+"请输入事件起始和结束时间" = "请输入事件起始和结束时间";
+
+/* No comment provided by engineer. */
+"请输入原密码" = "请输入原密码";
+
+/* No comment provided by engineer. */
+"请输入密码" = "请输入密码";
+
+/* No comment provided by engineer. */
+"请输入收藏夹密码" = "请输入收藏夹密码";
+
+/* No comment provided by engineer. */
+"请输入标签" = "请输入标签";
+
+/* No comment provided by engineer. */
+"请输入：" = "请输入：";
+
+/* No comment provided by engineer. */
+"请选择" = "请选择";
+
+/* No comment provided by engineer. */
+"返回" = "返回上级";
+
+/* No comment provided by engineer. */
+"重选标签" = "重选标签";
+
+/* No comment provided by engineer. */
+"附加照片" = "附加照片";
+
+/* No comment provided by engineer. */
+"音效" = "音效";
+
+"DaysInLine" = "历历在目";
+"How is my day looks.." = "我的一天是这样的...";
+"全部事件"="全部事件";
+"%@ 到 %@" = "%@ 到 %@";
+
+
+"升级通告" = "升级通告";
+"去除广告，开启备份，欢迎下载历历在目专业版。" = "广告烦人？历历在目已推出专业版，欢迎前往下载。";
+
+"免费版仅支持一次备份试用,请下载专业版开放备份功能" = "免费版仅支持一次备份试用,请下载专业版开放备份功能";
+"去下载" = "去下载";
+
+"暂不" = "暂不";
+"前往下载" = "前往下载";
+
+"云备份" = "云备份";
+
+
+
+
+"错误" = "错误";
+"您输入的用户名或密码有误，请重新输入" = "您输入的用户名或密码有误，请重新输入";
+"登录失败，请重试" = "登录失败，请重试";
+"尚未备份 " = "尚未备份 ";
+"您输入的用户名已存在，换一个吧" = "您输入的用户名已存在，换一个吧";
+"注册失败，请重试" = "注册失败，请重试";
+"前往注册" = "前往注册";
+"前往登录" = "前往登录";
+"两次输入密码不一致!" = "两次输入密码不一致!";
+"用户名只接受汉字、字母和数字" = "用户名只接受汉字、字母和数字";
+"您的用户名太长了..." = "您的用户名太长了...";
+
+
+"登录成功" = "登录成功";
+"%@\n备份失败，请重试" = "%@\n备份失败，请重试";
+"成功备份" = "成功备份";
+"同步失败，请稍后重试" = "同步失败，请稍后重试";
+"成功同步到本机" = "成功同步到本机";
+"注意" = "注意";
+"即将以当前数据替换之前的备份数据" = "即将以当前数据替换之前的备份数据";
+"确认" = "确认";
+"您还未进行过备份，无法同步到本地。" = "您还未进行过备份，无法同步到本地。";
+"云端备份数据将同步至本地，确认继续?" = "云端备份数据将同步至本地，确认继续?";

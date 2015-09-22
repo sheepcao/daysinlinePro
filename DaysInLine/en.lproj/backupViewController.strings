@@ -1,0 +1,57 @@
+
+/* Class = "UILabel"; text = "Cloud Entry"; ObjectID = "3Aa-lH-NN3"; */
+"3Aa-lH-NN3.text" = "Cloud Entry";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "5r3-rz-rpd"; */
+"5r3-rz-rpd.placeholder" = "Password";
+
+/* Class = "UIButton"; normalTitle = "Back"; ObjectID = "807-ud-XGb"; */
+"807-ud-XGb.normalTitle" = "Back";
+
+/* Class = "UITextField"; placeholder = "Username"; ObjectID = "9Kw-2i-3Hn"; */
+"9Kw-2i-3Hn.placeholder" = "Username";
+
+/* Class = "UITextField"; placeholder = "Username"; ObjectID = "Dlf-6F-ihg"; */
+"Dlf-6F-ihg.placeholder" = "Username";
+
+/* Class = "UILabel"; text = "*"; ObjectID = "ECa-jA-CVz"; */
+"ECa-jA-CVz.text" = "*";
+
+/* Class = "UILabel"; text = "Agreement:"; ObjectID = "JsR-Ci-zqH"; */
+"JsR-Ci-zqH.text" = "Agreement:";
+
+/* Class = "UIButton"; normalTitle = "《DaysInLine》"; ObjectID = "OgH-4e-fGr"; */
+"OgH-4e-fGr.normalTitle" = "《DaysInLine》";
+
+/* Class = "UIButton"; normalTitle = "Submit"; ObjectID = "SHm-ZG-gyy"; */
+"SHm-ZG-gyy.normalTitle" = "Submit";
+
+/* Class = "UILabel"; text = "*"; ObjectID = "agP-IH-dwA"; */
+"agP-IH-dwA.text" = "*";
+
+/* Class = "UIButton"; normalTitle = "Register"; ObjectID = "dXj-tF-BSh"; */
+"dXj-tF-BSh.normalTitle" = "Register";
+
+/* Class = "UILabel"; text = "*"; ObjectID = "fN6-0n-1m9"; */
+"fN6-0n-1m9.text" = "*";
+
+/* Class = "UILabel"; text = "Registration"; ObjectID = "g0e-UG-ZnY"; */
+"g0e-UG-ZnY.text" = "Registration";
+
+/* Class = "UITextField"; placeholder = "Confirm Password"; ObjectID = "imI-tk-dMA"; */
+"imI-tk-dMA.placeholder" = "Confirm Password";
+
+/* Class = "UILabel"; text = "Agreement:"; ObjectID = "jUl-OS-g0E"; */
+"jUl-OS-g0E.text" = "Agreement:";
+
+/* Class = "UIButton"; normalTitle = "《DaysInLine》"; ObjectID = "mPu-2z-ZPE"; */
+"mPu-2z-ZPE.normalTitle" = "《DaysInLine》";
+
+/* Class = "UIButton"; normalTitle = "Login"; ObjectID = "nav-0b-SN8"; */
+"nav-0b-SN8.normalTitle" = "Login";
+
+/* Class = "UILabel"; text = "User Login"; ObjectID = "nzE-Dx-7uX"; */
+"nzE-Dx-7uX.text" = "User Login";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "uw8-bX-qCW"; */
+"uw8-bX-qCW.placeholder" = "Password";
